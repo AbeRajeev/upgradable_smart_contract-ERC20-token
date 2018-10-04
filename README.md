@@ -6,7 +6,7 @@ case of transaction with higher gas limit.
 **Deploy and Run** 
 
 first run 
->$ truffle migrate --reset
+>$ truffle migrate
 
 later 
 >$ truffle migrate --reset
